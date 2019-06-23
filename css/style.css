@@ -5,6 +5,10 @@ body{
   color: #40514e
 }
 
+img{
+  padding: 0;
+}
+
 h1{
   margin-top: 0;
   font-family: 'Caveat', cursive;
@@ -64,6 +68,10 @@ a:hover{
   width: 25%;
   float: right;
   margin-left: 30px;
+}
+
+.mountain-image{
+  border: 0;
 }
 
 
